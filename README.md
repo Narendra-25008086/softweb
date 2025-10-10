@@ -1,4 +1,4 @@
-# Ex.07 Restaurant Website
+<img width="1920" height="1020" alt="Screenshot 2025-10-10 112457" src="https://github.com/user-attachments/assets/670a87db-4421-4605-985e-62dce72d0d7f" /># Ex.07 Restaurant Website
 ## Date:
 
 ## AIM:
@@ -526,6 +526,12 @@ footer {
 }
 ```
 ## OUTPUT:
+<img width="1920" height="1020" alt="Screenshot 2025-10-10 112516" src="https://github.com/user-attachments/assets/17d7f693-6132-4536-98b9-2b0f4f8a2d31" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-10 112447" src="https://github.com/user-attachments/assets/1c919773-4e10-4b22-9ebe-ab2b3d67967c" />
+![Uploadin<img width="1920" height="1020" alt="Screenshot 2025-10-10 112506" src="https://github.com/user-attachments/assets/226c609a-1c96-43cd-ae6f-846f7424a71c" />
+![Uploading Screenshot 2025-10-10 112516.png…]()
+
+
 
 
 ## RESULT:
