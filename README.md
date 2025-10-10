@@ -528,8 +528,9 @@ footer {
 ## OUTPUT:
 <img width="1920" height="1020" alt="Screenshot 2025-10-10 112516" src="https://github.com/user-attachments/assets/17d7f693-6132-4536-98b9-2b0f4f8a2d31" />
 <img width="1920" height="1080" alt="Screenshot 2025-10-10 112447" src="https://github.com/user-attachments/assets/1c919773-4e10-4b22-9ebe-ab2b3d67967c" />
+<img width="1920" height="1020" alt="Screenshot 2025-10-10 112457" src="https://github.com/user-attachments/assets/7b2b79c6-e370-41ee-ad48-6c68b12e6dd2" />
+
 ![Uploadin<img width="1920" height="1020" alt="Screenshot 2025-10-10 112506" src="https://github.com/user-attachments/assets/226c609a-1c96-43cd-ae6f-846f7424a71c" />
-<img width="1920" height="1020" alt="Screenshot 2025-10-10 112506" src="https://github.com/user-attachments/assets/04d1174c-5623-4f02-85ec-0fd72fa621d9" />
 
 
 
